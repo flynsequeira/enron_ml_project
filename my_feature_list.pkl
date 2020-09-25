@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'bonus_by_salary'
+p2
+aS'to_poi_by_non_poi'
+p3
+aS'from_poi_by_non_poi'
+p4
+a.
